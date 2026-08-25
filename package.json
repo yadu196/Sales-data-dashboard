@@ -1,0 +1,23 @@
+{
+  "name": "international-sim-sales-dashboard",
+  "version": "1.0.0",
+  "description": "International SIM Sales Dashboard with Serverless API and responsive analytics UI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "dashboard",
+    "sales-analytics",
+    "vercel",
+    "serverless",
+    "express"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
